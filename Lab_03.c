@@ -41,4 +41,5 @@ void main() {
 	if (n == 0)
 		printf("no one likes this");
 	else
+	printf("Hello world!");
 }*/
